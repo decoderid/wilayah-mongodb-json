@@ -1,0 +1,7710 @@
+[{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aa9e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "KAB. KERINCI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aa9f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. ACEH TENGGARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaa0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "KAB. MERANGIN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaa1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "KAB. TANJUNG JABUNG BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaa2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "KAB. BATANGHARI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaa3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "KAB. BUNGO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaa4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KOTA DUMAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaa5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. ACEH TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaa6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "KOTA JAMBI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaa7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "KAB. TEBO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaa8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. SIMEULUE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaa9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. ACEH BESAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaaa"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. ACEH JAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaab"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. ACEH SINGKIL",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaac"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. ACEH UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaad"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "KAB. MUARO JAMBI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaae"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. NAGAN RAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaaf"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "KAB. TANJUNG JABUNG TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aab0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. ACEH BARAT DAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aab1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. PIDIE JAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aab2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. DELI SERDANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aab3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. LABUHANBATU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aab4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. LANGKAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aab5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. SIMALUNGUN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aab6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. KARO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aab7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. BENER MERIAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aab8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. TOBA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aab9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. SERDANG BEDAGAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaba"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KOTA SUBULUSSALAM",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aabb"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. PAKPAK BHARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aabc"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. GAYO LUES",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aabd"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. ACEH BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aabe"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. ACEH SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aabf"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "KAB. SAROLANGUN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aac0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. BIREUEN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aac1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KOTA SABANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aac2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. ACEH TAMIANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aac3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. ACEH TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aac4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. TAPANULI TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aac5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. NIAS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aac6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KOTA LANGSA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aac7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. TAPANULI UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aac8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KOTA BANDA ACEH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aac9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. TAPANULI SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaca"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. BATU BARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aacb"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. ASAHAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aacc"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. LABUHANBATU SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aacd"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. SAMOSIR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aace"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KOTA LHOKSEUMAWE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aacf"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. DAIRI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aad0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. HUMBANG HASUNDUTAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aad1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. NIAS BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aad2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. MANDAILING NATAL",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aad3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. PADANG LAWAS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aad4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. LABUHANBATU UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aad5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "KAB. PIDIE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aad6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. PADANG LAWAS UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aad7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KOTA PEMATANGSIANTAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aad8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KOTA TEBING TINGGI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aad9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. NIAS UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aada"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KOTA SIBOLGA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aadb"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KAB. NIAS SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aadc"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KOTA PADANGSIDIMPUAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aadd"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KOTA GUNUNGSITOLI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aade"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. PASAMAN BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aadf"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KOTA BINJAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aae0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. LIMA PULUH KOTA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aae1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. TANAH DATAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aae2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. PASAMAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aae3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KOTA PADANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aae4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. DHARMASRAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aae5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KOTA BUKITTINGGI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aae6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. AGAM",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aae7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. SOLOK SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aae8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KOTA PAYAKUMBUH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aae9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KAB. INDRAGIRI HILIR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaea"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KOTA TANJUNG BALAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaeb"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. SIJUNJUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaec"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KAB. BENGKALIS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaed"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. SOLOK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaee"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KOTA PADANG PANJANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaef"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KOTA PARIAMAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaf0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KAB. PELALAWAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaf1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KAB. ROKAN HILIR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaf2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KAB. ROKAN HULU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaf3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KAB. SIAK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaf4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "KOTA MEDAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaf5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KAB. INDRAGIRI HULU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaf6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KOTA SAWAHLUNTO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaf7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. KEPULAUAN MENTAWAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaf8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "KOTA SUNGAI PENUH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaf9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KOTA SOLOK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aafa"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KAB. KAMPAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aafb"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. PADANG PARIAMAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aafc"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. MUARA ENIM",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aafd"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "KAB. PESISIR SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aafe"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KOTA PEKANBARU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aaff"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KAB. KUANTAN SINGINGI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab00"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "KAB. KEPULAUAN MERANTI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab01"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. LAHAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab02"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. OGAN KOMERING ILIR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab03"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. OGAN KOMERING ULU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab04"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. MUSI RAWAS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab05"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. MUSI BANYUASIN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab06"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. BANYUASIN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab07"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. OGAN KOMERING ULU TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab08"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. OGAN KOMERING ULU SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab09"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. OGAN ILIR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab0a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. EMPAT LAWANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab0b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. PENUKAL ABAB LEMATANG ILIR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab0c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KAB. MUSI RAWAS UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab0d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KOTA PALEMBANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab0e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KOTA PAGAR ALAM",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab0f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KOTA LUBUK LINGGAU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab10"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "KOTA PRABUMULIH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab11"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a854"
+  },
+  "name": "KAB. BENGKULU SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab12"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a854"
+  },
+  "name": "KAB. REJANG LEBONG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab13"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a854"
+  },
+  "name": "KAB. BENGKULU UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab14"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a854"
+  },
+  "name": "KAB. KAUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab15"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a854"
+  },
+  "name": "KAB. SELUMA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab16"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a854"
+  },
+  "name": "KAB. MUKO MUKO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab17"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a854"
+  },
+  "name": "KAB. LEBONG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab18"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a854"
+  },
+  "name": "KAB. KEPAHIANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab19"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a854"
+  },
+  "name": "KAB. BENGKULU TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab1a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a854"
+  },
+  "name": "KOTA BENGKULU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab1b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. LAMPUNG SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab1c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. LAMPUNG TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab1d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. LAMPUNG UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab1e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. LAMPUNG BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab1f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. TULANG BAWANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab20"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. TANGGAMUS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab21"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. LAMPUNG TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab22"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. WAY KANAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab23"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. PESAWARAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab24"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. PRINGSEWU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab25"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. MESUJI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab26"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. TULANG BAWANG BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab27"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KAB. PESISIR BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab28"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KOTA BANDAR LAMPUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab29"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "KOTA METRO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab2a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a856"
+  },
+  "name": "KAB. BANGKA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab2b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a856"
+  },
+  "name": "KAB. BELITUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab2c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a856"
+  },
+  "name": "KAB. BANGKA SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab2d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a856"
+  },
+  "name": "KAB. BANGKA TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab2e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a856"
+  },
+  "name": "KAB. BANGKA BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab2f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a856"
+  },
+  "name": "KAB. BELITUNG TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab30"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a856"
+  },
+  "name": "KOTA PANGKAL PINANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab31"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a857"
+  },
+  "name": "KAB. BINTAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab32"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a857"
+  },
+  "name": "KAB. KARIMUN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab33"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a857"
+  },
+  "name": "KAB. NATUNA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab34"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a857"
+  },
+  "name": "KAB. LINGGA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab35"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a857"
+  },
+  "name": "KAB. KEPULAUAN ANAMBAS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab36"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a857"
+  },
+  "name": "KOTA BATAM",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab37"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a857"
+  },
+  "name": "KOTA TANJUNG PINANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab38"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a858"
+  },
+  "name": "KAB. ADM. KEP. SERIBU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab39"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a858"
+  },
+  "name": "KOTA ADM. JAKARTA PUSAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab3a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a858"
+  },
+  "name": "KOTA ADM. JAKARTA UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab3b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a858"
+  },
+  "name": "KOTA ADM. JAKARTA BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab3c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a858"
+  },
+  "name": "KOTA ADM. JAKARTA SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab3d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a858"
+  },
+  "name": "KOTA ADM. JAKARTA TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab3e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. BOGOR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab3f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. SUKABUMI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab40"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. CIANJUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab41"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. BANDUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab42"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. GARUT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab43"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. TASIKMALAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab44"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. CIAMIS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab45"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. KUNINGAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab46"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. CIREBON",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab47"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. MAJALENGKA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab48"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. SUMEDANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab49"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. INDRAMAYU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab4a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. SUBANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab4b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. PURWAKARTA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab4c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. KARAWANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab4d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. BEKASI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab4e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. BANDUNG BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab4f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KAB. PANGANDARAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab50"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KOTA BOGOR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab51"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KOTA SUKABUMI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab52"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KOTA BANDUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab53"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KOTA CIREBON",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab54"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KOTA BEKASI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab55"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KOTA DEPOK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab56"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KOTA CIMAHI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab57"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KOTA TASIKMALAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab58"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "KOTA BANJAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab59"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. CILACAP",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab5a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. BANYUMAS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab5b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. PURBALINGGA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab5c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. BANJARNEGARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab5d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. KEBUMEN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab5e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. PURWOREJO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab5f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. WONOSOBO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab60"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. MAGELANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab61"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. BOYOLALI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab62"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. KLATEN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab63"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. SUKOHARJO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab64"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. WONOGIRI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab65"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. KARANGANYAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab66"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. SRAGEN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab67"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. GROBOGAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab68"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. BLORA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab69"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. REMBANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab6a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. PATI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab6b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. KUDUS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab6c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. JEPARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab6d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. DEMAK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab6e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. SEMARANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab6f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. TEMANGGUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab70"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. KENDAL",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab71"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. BATANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab72"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. PEKALONGAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab73"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. PEMALANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab74"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. TEGAL",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab75"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KAB. BREBES",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab76"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KOTA MAGELANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab77"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KOTA SURAKARTA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab78"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KOTA SALATIGA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab79"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KOTA SEMARANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab7a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KOTA PEKALONGAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab7b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "KOTA TEGAL",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab7c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85b"
+  },
+  "name": "KAB. KULON PROGO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab7d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85b"
+  },
+  "name": "KAB. BANTUL",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab7e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85b"
+  },
+  "name": "KAB. GUNUNGKIDUL",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab7f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85b"
+  },
+  "name": "KAB. SLEMAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab80"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85b"
+  },
+  "name": "KOTA YOGYAKARTA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab81"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. PACITAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab82"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. PONOROGO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab83"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. TRENGGALEK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab84"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. TULUNGAGUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab85"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. BLITAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab86"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. KEDIRI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab87"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. MALANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab88"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. LUMAJANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab89"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. JEMBER",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab8a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. BANYUWANGI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab8b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. BONDOWOSO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab8c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. SITUBONDO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab8d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. PROBOLINGGO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab8e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. PASURUAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab8f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. SIDOARJO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab90"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. MOJOKERTO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab91"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. JOMBANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab92"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. NGANJUK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab93"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. MADIUN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab94"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. MAGETAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab95"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. NGAWI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab96"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. BOJONEGORO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab97"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. TUBAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab98"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. LAMONGAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab99"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. GRESIK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab9a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. BANGKALAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab9b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. SAMPANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab9c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. PAMEKASAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab9d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KAB. SUMENEP",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab9e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KOTA KEDIRI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ab9f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KOTA BLITAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aba0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KOTA MALANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aba1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KOTA PROBOLINGGO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aba2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KOTA PASURUAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aba3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KOTA MOJOKERTO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aba4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KOTA MADIUN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aba5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KOTA SURABAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aba6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "KOTA BATU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aba7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85d"
+  },
+  "name": "KAB. PANDEGLANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aba8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85d"
+  },
+  "name": "KAB. LEBAK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98aba9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85d"
+  },
+  "name": "KAB. TANGERANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abaa"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85d"
+  },
+  "name": "KAB. SERANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abab"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85d"
+  },
+  "name": "KOTA TANGERANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abac"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85d"
+  },
+  "name": "KOTA CILEGON",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abad"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85d"
+  },
+  "name": "KOTA SERANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abae"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85d"
+  },
+  "name": "KOTA TANGERANG SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abaf"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85e"
+  },
+  "name": "KAB. JEMBRANA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abb0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85e"
+  },
+  "name": "KAB. TABANAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abb1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85e"
+  },
+  "name": "KAB. BADUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abb2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85e"
+  },
+  "name": "KAB. GIANYAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abb3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85e"
+  },
+  "name": "KAB. KLUNGKUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abb4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85e"
+  },
+  "name": "KAB. BANGLI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abb5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85e"
+  },
+  "name": "KAB. KARANGASEM",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abb6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85e"
+  },
+  "name": "KAB. BULELENG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abb7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85e"
+  },
+  "name": "KOTA DENPASAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abb8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85f"
+  },
+  "name": "KAB. LOMBOK BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abb9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85f"
+  },
+  "name": "KAB. LOMBOK TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abba"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85f"
+  },
+  "name": "KAB. LOMBOK TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abbb"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85f"
+  },
+  "name": "KAB. SUMBAWA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abbc"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85f"
+  },
+  "name": "KAB. DOMPU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abbd"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85f"
+  },
+  "name": "KAB. BIMA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abbe"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85f"
+  },
+  "name": "KAB. SUMBAWA BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abbf"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85f"
+  },
+  "name": "KAB. LOMBOK UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abc0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85f"
+  },
+  "name": "KOTA MATARAM",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abc1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85f"
+  },
+  "name": "KOTA BIMA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abc2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. KUPANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abc3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB TIMOR TENGAH SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abc4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. TIMOR TENGAH UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abc5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. BELU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abc6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. ALOR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abc7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. FLORES TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abc8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. SIKKA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abc9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. ENDE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abca"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. NGADA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abcb"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. MANGGARAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abcc"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. SUMBA TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abcd"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. SUMBA BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abce"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. LEMBATA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abcf"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. ROTE NDAO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abd0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. MANGGARAI BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abd1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. NAGEKEO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abd2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. SUMBA TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abd3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. SUMBA BARAT DAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abd4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. MANGGARAI TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abd5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. SABU RAIJUA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abd6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KAB. MALAKA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abd7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "KOTA KUPANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abd8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. SAMBAS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abd9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. MEMPAWAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abda"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. SANGGAU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abdb"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. KETAPANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abdc"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. SINTANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abdd"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. KAPUAS HULU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abde"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. BENGKAYANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abdf"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. LANDAK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abe0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. SEKADAU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abe1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. MELAWI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abe2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. KAYONG UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abe3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KAB. KUBU RAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abe4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KOTA PONTIANAK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abe5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KOTA SINGKAWANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abe6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. KOTAWARINGIN BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abe7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. KOTAWARINGIN TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abe8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. KAPUAS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abe9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. BARITO SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abea"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. BARITO UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abeb"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. KATINGAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abec"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. SERUYAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abed"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. SUKAMARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abee"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. LAMANDAU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abef"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. GUNUNG MAS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abf0"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. PULANG PISAU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abf1"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. MURUNG RAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abf2"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KAB. BARITO TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abf3"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KOTA PALANGKARAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abf4"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KAB. TANAH LAUT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abf5"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KAB. KOTABARU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abf6"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KAB. BANJAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abf7"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KAB. BARITO KUALA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abf8"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KAB. TAPIN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abf9"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KAB. HULU SUNGAI SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abfa"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KAB. HULU SUNGAI TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abfb"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KAB. HULU SUNGAI UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abfc"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KAB. TABALONG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abfd"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KAB. TANAH BUMBU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abfe"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KAB. BALANGAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98abff"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KOTA BANJARMASIN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac00"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KOTA BANJARBARU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac01"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a864"
+  },
+  "name": "KAB. PASER",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac02"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a864"
+  },
+  "name": "KAB. KUTAI KARTANEGARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac03"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a864"
+  },
+  "name": "KAB. BERAU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac04"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a864"
+  },
+  "name": "KAB. KUTAI BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac05"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a864"
+  },
+  "name": "KAB. KUTAI TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac06"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a864"
+  },
+  "name": "KAB. PENAJAM PASER UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac07"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a864"
+  },
+  "name": "KAB. MAHAKAM ULU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac08"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a864"
+  },
+  "name": "KOTA BALIKPAPAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac09"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a864"
+  },
+  "name": "KOTA SAMARINDA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac0a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a864"
+  },
+  "name": "KOTA BONTANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac0b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a865"
+  },
+  "name": "KAB. BULUNGAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac0c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a865"
+  },
+  "name": "KAB. MALINAU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac0d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a865"
+  },
+  "name": "KAB. NUNUKAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac0e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a865"
+  },
+  "name": "KAB. TANA TIDUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac0f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a865"
+  },
+  "name": "KOTA TARAKAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac10"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KAB. BOLAANG MONGONDOW",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac11"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KAB. MINAHASA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac12"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KAB. KEPULAUAN SANGIHE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac13"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KAB. KEPULAUAN TALAUD",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac14"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KAB. MINAHASA SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac15"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KAB. MINAHASA UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac16"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KAB. MINAHASA TENGGARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac17"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KAB. BOLAANG MONGONDOW UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac18"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KAB. KEP. SIAU TAGULANDANG BIARO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac19"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KAB. BOLAANG MONGONDOW TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac1a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KAB. BOLAANG MONGONDOW SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac1b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KOTA MANADO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac1c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KOTA BITUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac1d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KOTA TOMOHON",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac1e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "KOTA KOTAMOBAGU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac1f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. BANGGAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac20"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. POSO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac21"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. DONGGALA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac22"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. TOLI TOLI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac23"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. BUOL",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac24"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. MOROWALI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac25"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. BANGGAI KEPULAUAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac26"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. PARIGI MOUTONG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac27"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. TOJO UNA UNA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac28"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. SIGI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac29"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. BANGGAI LAUT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac2a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KAB. MOROWALI UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac2b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "KOTA PALU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac2c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. KEPULAUAN SELAYAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac2d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. BULUKUMBA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac2e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. BANTAENG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac2f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. JENEPONTO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac30"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. TAKALAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac31"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. GOWA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac32"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. SINJAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac33"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. BONE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac34"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. MAROS",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac35"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. PANGKAJENE KEPULAUAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac36"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. BARRU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac37"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. SOPPENG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac38"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. WAJO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac39"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. SIDENRENG RAPPANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac3a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. PINRANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac3b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. ENREKANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac3c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. LUWU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac3d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. TANA TORAJA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac3e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. LUWU UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac3f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. LUWU TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac40"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KAB. TORAJA UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac41"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KOTA MAKASSAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac42"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KOTA PARE PARE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac43"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "KOTA PALOPO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac44"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. KOLAKA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac45"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. KONAWE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac46"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. MUNA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac47"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. BUTON",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac48"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. KONAWE SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac49"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. BOMBANA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac4a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. WAKATOBI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac4b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. KOLAKA UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac4c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. KONAWE UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac4d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. BUTON UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac4e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. KOLAKA TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac4f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. KONAWE KEPULAUAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac50"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. MUNA BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac51"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. BUTON TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac52"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KAB. BUTON SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac53"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KOTA KENDARI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac54"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "KOTA BAU BAU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac55"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86a"
+  },
+  "name": "KAB. GORONTALO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac56"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86a"
+  },
+  "name": "KAB. BOALEMO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac57"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86a"
+  },
+  "name": "KAB. BONE BOLANGO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac58"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86a"
+  },
+  "name": "KAB. POHUWATO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac59"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86a"
+  },
+  "name": "KAB. GORONTALO UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac5a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86a"
+  },
+  "name": "KOTA GORONTALO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac5b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86b"
+  },
+  "name": "KAB. PASANGKAYU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac5c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86b"
+  },
+  "name": "KAB. MAMUJU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac5d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86b"
+  },
+  "name": "KAB. MAMASA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac5e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86b"
+  },
+  "name": "KAB. POLEWALI MANDAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac5f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86b"
+  },
+  "name": "KAB. MAJENE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac60"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86b"
+  },
+  "name": "KAB. MAMUJU TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac61"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "KAB. MALUKU TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac62"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "KAB. MALUKU TENGGARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac63"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "KAB. KEPULAUAN TANIMBAR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac64"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "KAB. BURU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac65"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "KAB. SERAM BAGIAN TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac66"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "KAB. SERAM BAGIAN BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac67"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "KAB. KEPULAUAN ARU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac68"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "KAB. MALUKU BARAT DAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac69"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "KAB. BURU SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac6a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "KOTA AMBON",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac6b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "KOTA TUAL",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac6c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86d"
+  },
+  "name": "KAB. HALMAHERA BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac6d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86d"
+  },
+  "name": "KAB. HALMAHERA TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac6e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86d"
+  },
+  "name": "KAB. HALMAHERA UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac6f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86d"
+  },
+  "name": "KAB. HALMAHERA SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac70"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86d"
+  },
+  "name": "KAB. KEPULAUAN SULA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac71"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86d"
+  },
+  "name": "KAB. HALMAHERA TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac72"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86d"
+  },
+  "name": "KAB. PULAU MOROTAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac73"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86d"
+  },
+  "name": "KAB. PULAU TALIABU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac74"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86d"
+  },
+  "name": "KOTA TERNATE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac75"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86d"
+  },
+  "name": "KOTA TIDORE KEPULAUAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac76"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86e"
+  },
+  "name": "KAB. JAYAPURA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac77"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86e"
+  },
+  "name": "KAB. KEPULAUAN YAPEN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac78"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86e"
+  },
+  "name": "KAB. BIAK NUMFOR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac79"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86e"
+  },
+  "name": "KAB. SARMI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac7a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86e"
+  },
+  "name": "KAB. KEEROM",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac7b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86e"
+  },
+  "name": "KAB. WAROPEN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac7c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86e"
+  },
+  "name": "KAB. SUPIORI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac7d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86e"
+  },
+  "name": "KAB. MAMBERAMO RAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac7e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86e"
+  },
+  "name": "KOTA JAYAPURA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac7f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. SORONG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac80"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. MANOKWARI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac81"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. FAK FAK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac82"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. SORONG SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac83"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. RAJA AMPAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac84"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. TELUK BINTUNI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac85"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. TELUK WONDAMA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac86"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. KAIMANA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac87"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. TAMBRAUW",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac88"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. MAYBRAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac89"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. MANOKWARI SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac8a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KAB. PEGUNUNGAN ARFAK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac8b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "KOTA SORONG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac8c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a870"
+  },
+  "name": "KAB. MERAUKE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac8d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a870"
+  },
+  "name": "KAB. BOVEN DIGOEL",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac8e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a870"
+  },
+  "name": "KAB. MAPPI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac8f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a870"
+  },
+  "name": "KAB. ASMAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac90"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a871"
+  },
+  "name": "KAB. NABIRE",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac91"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a871"
+  },
+  "name": "KAB. PUNCAK JAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac92"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a871"
+  },
+  "name": "KAB. PANIAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac93"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a871"
+  },
+  "name": "KAB. MIMIKA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac94"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a871"
+  },
+  "name": "KAB. PUNCAK",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac95"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a871"
+  },
+  "name": "KAB. DOGIYAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac96"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a871"
+  },
+  "name": "KAB. INTAN JAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac97"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a871"
+  },
+  "name": "KAB. DEIYAI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac98"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a872"
+  },
+  "name": "KAB. JAYAWIJAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac99"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a872"
+  },
+  "name": "KAB. PEGUNUNGAN BINTANG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac9a"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a872"
+  },
+  "name": "KAB. YAHUKIMO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac9b"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a872"
+  },
+  "name": "KAB. TOLIKARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac9c"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a872"
+  },
+  "name": "KAB. MAMBERAMO TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac9d"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a872"
+  },
+  "name": "KAB. YALIMO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac9e"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a872"
+  },
+  "name": "KAB. LANNY JAYA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc16d2d6cc84ac98ac9f"
+  },
+  "province_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a872"
+  },
+  "name": "KAB. NDUGA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:18.174Z"
+  }
+}]

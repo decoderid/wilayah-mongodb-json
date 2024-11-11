@@ -1,0 +1,444 @@
+[{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84e"
+  },
+  "name": "ACEH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a850"
+  },
+  "name": "SUMATERA BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a851"
+  },
+  "name": "RIAU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a84f"
+  },
+  "name": "SUMATERA UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a852"
+  },
+  "name": "JAMBI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a853"
+  },
+  "name": "SUMATERA SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a855"
+  },
+  "name": "LAMPUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a854"
+  },
+  "name": "BENGKULU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a858"
+  },
+  "name": "DKI JAKARTA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a857"
+  },
+  "name": "KEPULAUAN RIAU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a856"
+  },
+  "name": "KEPULAUAN BANGKA BELITUNG",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85b"
+  },
+  "name": "DAERAH ISTIMEWA YOGYAKARTA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85a"
+  },
+  "name": "JAWA TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a859"
+  },
+  "name": "JAWA BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85e"
+  },
+  "name": "BALI",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a860"
+  },
+  "name": "NUSA TENGGARA TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85d"
+  },
+  "name": "BANTEN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85c"
+  },
+  "name": "JAWA TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a862"
+  },
+  "name": "KALIMANTAN TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a85f"
+  },
+  "name": "NUSA TENGGARA BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a861"
+  },
+  "name": "KALIMANTAN BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a864"
+  },
+  "name": "KALIMANTAN TIMUR",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a863"
+  },
+  "name": "KALIMANTAN SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a867"
+  },
+  "name": "SULAWESI TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a866"
+  },
+  "name": "SULAWESI UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a865"
+  },
+  "name": "KALIMANTAN UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a869"
+  },
+  "name": "SULAWESI TENGGARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a868"
+  },
+  "name": "SULAWESI SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86a"
+  },
+  "name": "GORONTALO",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86c"
+  },
+  "name": "MALUKU",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86b"
+  },
+  "name": "SULAWESI BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86d"
+  },
+  "name": "MALUKU UTARA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a870"
+  },
+  "name": "PAPUA SELATAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86f"
+  },
+  "name": "PAPUA BARAT",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a86e"
+  },
+  "name": "PAPUA",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a871"
+  },
+  "name": "PAPUA TENGAH",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731cc0fd2d6cc84ac98a872"
+  },
+  "name": "PAPUA PEGUNUNGAN",
+  "createdAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:19:11.115Z"
+  }
+}]
